@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305464650718",
+    "project_id": "turistuygulamasi-316718",
+    "storage_bucket": "turistuygulamasi-316718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305464650718:android:cc9214e7088b01c18f4b4f",
+        "android_client_info": {
+          "package_name": "com.samet.mobilprogramlama_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305464650718-6gnco70tk4e1ne9c8ekv0ro873rfcb0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtpKI6L0K7vExTAhtg4ep9enzT-GWmxaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305464650718-6gnco70tk4e1ne9c8ekv0ro873rfcb0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
